@@ -11,4 +11,3 @@
 1. Buat folder baru di dalam folder htdocs (contoh: folder "belajar-dm")
 2. Clone atau Download repository ini
 3. Simpan di dalam folder belajar-dm (.../xampp/htdocs/belajar-dm/...)
-# data-mining-php
